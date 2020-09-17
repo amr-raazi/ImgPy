@@ -3,4 +3,6 @@
 venv/
 .venv/
 __pycache__/
+Tesseract
+photos
 test.py
